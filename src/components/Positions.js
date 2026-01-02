@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import axios, { all } from "axios";
 //import { positions } from "../data/data";
 
